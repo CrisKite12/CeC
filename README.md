@@ -1,2 +1,2 @@
-# Projeto de Prática Profissional em ADS
+# Projeto de Prática Profissional em ADS: Findt!
 ## Grupo: C&C
